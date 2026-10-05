@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+dist
+coverage
+Docs
+.agents
+.agent
+.gsd
+.gemini
+.vscode
+adapters
+AGENTS.md
+*.md
+*.yaml
+*.pdf
+package-lock.json
